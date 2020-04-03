@@ -3,9 +3,9 @@
 Please ensure your that the pull request you will make aligns with the guidelines below:
 
 - Look through the available submissions as they one you will make will be a duplicate.
-- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-- Keep descriptions short and simple.
-- End all descriptions with a full stop/period.
+- Titles should be written in capital letters [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+- Keep project descriptions short and simple.
+- End all descriptions with a full stop [period](.).
 - Order the project under it's language alphabetically.
 - Check your spelling and grammar.
 - For every suggestion, make a new pull request.
