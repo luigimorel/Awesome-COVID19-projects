@@ -7,6 +7,15 @@ Please ensure your that the pull request you will make aligns with the guideline
 - Keep project descriptions short and simple.
 - End all descriptions with a full stop [period](.).
 - Order the project under it's language alphabetically.
+- Please add a tag depending on whether the project is open source or Freeware
+  For example:
+
+  _._
+
+- [Example](http://example.com) - Displays a visual map of countries with cases of Corona Virus. ![Open Source]
+
+_._
+
 - Check your spelling and grammar.
 - For every suggestion, make a new pull request.
 - Try to make your Pull request and title as descriptive as possible.
