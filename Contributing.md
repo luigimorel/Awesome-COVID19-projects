@@ -12,7 +12,7 @@ Please ensure your that the pull request you will make aligns with the guideline
 
   _._
 
-- [Example](http://example.com) - Displays a visual map of countries with cases of Corona Virus. ![Open Source]
+- [Example](http://example.com) - Displays a visual map of countries with cases of Corona Virus. ![Open Source]()
 
 _._
 

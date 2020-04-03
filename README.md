@@ -4,3 +4,6 @@
 
 - [Languages](#languages)
   - [JavaScript](#javascript)
+  - [Java](#java)
+  - [Python](#python)
+  - [Ruby](#ruby)
