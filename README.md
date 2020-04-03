@@ -7,3 +7,13 @@
   - [Java](#java)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Vue](#vue)
+  - [HTML](#html)
+
+>
+
+## Languages
+
+### JavaScript
+
+-[covid19india-react](https://github.com/covid1919india-react) -Source code for the main website. ![Open Source](N/A)
