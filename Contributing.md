@@ -5,6 +5,7 @@ Please ensure your that the pull request you will make aligns with the guideline
 - Look through the available submissions as they one you will make will be a duplicate.
 - Titles should be written in capital letters [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Keep project descriptions short and simple.
+- Frameworks of languages will be considered as separate languages.
 - End all descriptions with a full stop [period](.).
 - Order the project under it's language alphabetically.
 - Please add a tag depending on whether the project is open source or Freeware and also include the licence,
