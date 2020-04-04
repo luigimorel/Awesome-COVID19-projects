@@ -9,6 +9,7 @@
   - [Ruby](#ruby)
   - [Vue](#vue)
   - [HTML](#html)
+  - [Swift](#swift)
 
 >
 
@@ -17,10 +18,14 @@
 ### JavaScript
 
 - [covid19india-react](https://github.com/covid1919india-react) -Source code for the main website. [Open Source](MIT)
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Useful projects and resources for COVID-19. [Open Source](MIT)
+- [coronadatascraper](https://github.com/covidatlas/coronadatascraper) - COVID-19 Coronavirus data scraped from government and curated data sources. [Open Source](BSD-2-Clause)
 
 ### Java
 
 ### Python
+
+- [corona](https://github.com/geohot/corona) - Reverse engineering SARS-CoV-2. [Open Source](N/A)
 
 ### Ruby
 
@@ -29,3 +34,7 @@
 - [covid19](https://github.com/tokyo-metropolitan-gov/covid9) - Tokyo Covid19 task force website. [Open Source](MIT)
 
 ### HTML
+
+### Swift
+
+- [CoronaTracker](https://github.com/mhdhejazi/CoronaTracker) - Corona game engine main repository. [Open Source](GPL-3.0)
