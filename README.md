@@ -30,6 +30,7 @@
 - [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - Useful projects and resources for COVID-19. [Open Source](MIT)
 - [coronadatascraper](https://github.com/covidatlas/coronadatascraper) - COVID-19 Coronavirus data scraped from government and curated data sources. [Open Source](BSD-2-Clause)
 - [corona-cli](https://github.com/ahmadawais/corona-cli) - Track the Coronavirus disease (COVID-19) in the command line. [Open Source](MIT)
+- [Covid-19-Statistics](https://github.com/Big-Zude/Covid-19-Statistics) - Shows statistics of countries hit by the corona virus disease. [Open Source](MIT)
 
 ### Java
 
@@ -38,6 +39,7 @@
 ### Jupyter-Notebook
 
 - [COVID19](https://github.com/Rank23/COVID19) - Using Kalman Filter to Predict Corona Virus Spread. [Open Source](MIT)
+- [corona_prophet](https://github.com/EXYNOS-999/corona_prophet) - An aim to predict, visualize and act to contain the 2019 n-Corona Virus, through the power of data science. [Open Source](N/A)
 
 ### Python
 
