@@ -3,6 +3,8 @@
 > _Please read Contributing.md before adding a project_
 
 - [Languages](#languages)
+  - [Angular](#angular)
+  - [Dart](#dart)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Java](#java)
@@ -19,6 +21,14 @@
     >
 
 ## Languages
+
+### Angular
+
+- [Corona-Statistics-And-Tracker-Dashboard](https://github.com/OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9) - Corona Virus / Covid 19 Tracker Dashboard With Awesome UI + PWA + NodeJS Scraper. [Open Source](MIT)
+
+### Dart
+
+- [CoronaVirusTrackerFlutter](https://github.com/alfianlosari/CoronaVirusTrackerFlutter) - Corona Virus Tracker & Advices App with Flutter. [Open Source](MIT)
 
 ### Go
 
@@ -40,6 +50,7 @@
 
 - [COVID19](https://github.com/Rank23/COVID19) - Using Kalman Filter to Predict Corona Virus Spread. [Open Source](MIT)
 - [corona_prophet](https://github.com/EXYNOS-999/corona_prophet) - An aim to predict, visualize and act to contain the 2019 n-Corona Virus, through the power of data science. [Open Source](N/A)
+- [covidify](https://github.com/AaronWard/covidify) - Covidify - corona virus report and dataset generator for python. [Open Source](MIT)
 
 ### Python
 
@@ -60,6 +71,7 @@
 ### Vue
 
 - [covid19](https://github.com/tokyo-metropolitan-gov/covid9) - Tokyo Covid19 task force website. [Open Source](MIT)
+- [covid19-live-visualization](https://github.com/localeai/covid19-live-visualization) - Live visualization of novel corona virus (COVID19) outbreak. [Open Source](MIT)
 
 ### HTML
 
