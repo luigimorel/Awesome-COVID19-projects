@@ -13,7 +13,7 @@
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
-  - [Vue](#vue)
+  - [VueJS](#vuejs)
   - [HTML](#html)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -41,6 +41,8 @@
 - [coronadatascraper](https://github.com/covidatlas/coronadatascraper) - COVID-19 Coronavirus data scraped from government and curated data sources. [Open Source](BSD-2-Clause)
 - [corona-cli](https://github.com/ahmadawais/corona-cli) - Track the Coronavirus disease (COVID-19) in the command line. [Open Source](MIT)
 - [Covid-19-Statistics](https://github.com/Big-Zude/Covid-19-Statistics) - Shows statistics of countries hit by the corona virus disease. [Open Source](MIT)
+- [corona-board](https://github.com/soaple/corona-board) - Global dashboard for monitoring Corona virus(COVID-19). [Open Source](MIT)
+- [id.covid-19](https://github.com/pudyasto/id.covid-19)
 
 ### Java
 
@@ -56,10 +58,13 @@
 
 - [corona](https://github.com/geohot/corona) - Reverse engineering SARS-CoV-2. [Open Source](N/A)
 - [coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) - A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. [Open Source](GPL-3.0))
+- [python_corona_simulation](https://github.com/paulvangentcom/python_corona_simulation) - An agent-based simulation of corona and other viruses in python. [Open Source](GPL-3.0)
+- [coronatracker](https://github.com/theleadio/coronatracker) - Keeps track of the development of Wuhan Corona virus. [Open Source](N/A)
 
 ### PHP
 
 - [2019-wuhan-coronavirus-data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) - 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV). [Open Source](GPL-3.0)
+- [CoronaVirusDatabase](https://github.com/BaseMax/CoronaVirusDatabase) - A repository for analyzing references and database of "gisanddata.maps.arcgis.com" website for Corona Virus. [Open Source](GPL-3.0)
 
 ### R
 
@@ -67,8 +72,11 @@
 - [coronavirus](https://github.com/JohnCoene/coronavirus) - The novel COV19 tracker. [Open Source](N/A)
 
 ### Ruby
+- [corona-bot](https://github.com/dusmel/corona-bot) - A simple whatsapp bot that gives live update about corona, this project came to idea to help people in drc and rwanda.  [Open Source] (MIT)
+ - [ruby_capston_project](https://github.com/Theophile-Kango/ruby_capston_project - ) - This project is about a telegram bot that can help you with corona-virus info. [Open Source](N/A) 
+ - [corona-hebrew-checker](bencgreenberg/corona-hebrew-checker) - Get updates when there are new health advisory notices by SMS. [Open Source](MIT)
 
-### Vue
+### VueJS
 
 - [covid19](https://github.com/tokyo-metropolitan-gov/covid9) - Tokyo Covid19 task force website. [Open Source](MIT)
 - [covid19-live-visualization](https://github.com/localeai/covid19-live-visualization) - Live visualization of novel corona virus (COVID19) outbreak. [Open Source](MIT)
@@ -80,6 +88,7 @@
 ### Shell
 
 - [covid19-cli](https://github.com/garrylachman/covid19-cli) - Corona Virus (Covid 19) BASH Tracking CLI. [Open Source](MIT)
+-
 
 ### Swift
 
